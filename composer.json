@@ -1,0 +1,13 @@
+{
+    "name": "vagrant/brainster-xyz-labs",
+    "description": "BrainsterXyzLabs",
+    "require": {
+        "twbs/bootstrap": "4.1.3"
+    },
+    "authors": [
+        {
+            "name": "Blagica Bozhinovska",
+            "email": "blagicastojanoska@gmail.com"
+        }
+    ]
+}
